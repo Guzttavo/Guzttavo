@@ -1,11 +1,9 @@
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=39&duration=2200&pause=1500&color=ECECEC&center=true&width=701&height=231&lines=My+name+is+Gustavo+Oliveira;I'm+20+years+old;I'm+from+Brazil+;i'm+Data+Scientist)](https://git.io/typing-svg)
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=102&section=header&reversal=false&text=Hey%20%F0%9F%91%8B%20What's%20up?&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=39&duration=2200&pause=1500&color=ECECEC&center=true&width=701&height=231&lines=My+name+is+Gustavo+Oliveira;I'm+20+years+old;I'm+from+Brazil+;i'm+Data+Scientist)](https://git.io/typing-svg)
 ###
 
 <div>
