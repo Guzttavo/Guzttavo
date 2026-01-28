@@ -2,7 +2,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=1500&multiline=true&width=435&lines=My+name+is+Gustavo+Oliveira;I'm+20+years+old;I'm+from+Brazil+;i'm+Data+Scientist)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2400&pause=1500&multiline=true&width=435&lines=My+name+is+Gustavo+Oliveira;I'm+20+years+old;I'm+from+Brazil+;i'm+Data+Scientist" alt="Typing SVG" /></a>
-
-
 ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
